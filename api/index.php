@@ -1,3 +1,10 @@
+# Made by SaikiDesu (Mr.Aik3ro)
+# YT: https://youtube.com/c/MrAik3ro
+# FB: https://www.facebook.com/saikidesu.11
+# Github: https://github.com/mraikero-01
+# Random VTuber Image API using php, I hope this can help you!❤️
+
+
 <?php
 if (isset($_GET['character'])) {
   $character = $_GET['character'];
