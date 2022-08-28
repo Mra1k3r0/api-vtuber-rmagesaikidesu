@@ -1,10 +1,3 @@
-# Made by SaikiDesu (Mr.Aik3ro)
-# YT: https://youtube.com/c/MrAik3ro
-# FB: https://www.facebook.com/saikidesu.11
-# Github: https://github.com/mraikero-01
-# Random VTuber Image API using php, I hope this can help you!❤️
-
-
 <?php
 if (isset($_GET['character'])) {
   $character = $_GET['character'];
@@ -708,3 +701,9 @@ if (isset($_GET['character'])) {
 else {
   echo '<head><style>body {background-color: #3f403d;}</style></head><body><b><span style="font-size:20px">Welcome to my Simple API</span></b><br><br><b><font color="#f0f0f0">Get data by link:</font></b><br><font color="#b8adad">api.randvtuber-saikidesu.ml?character=</font> character name here<br><br><b><font color="#f0f0f0">Existing characters:</font></b> gura, pekora, korone, uto, mumei, koyori, fubuki, chloe, ayame, polka, botan, amelia, okayu, watame, aloe, marine, coco, rushia<br><br><b><u>Facebook:</u></b> <a href ="https://www.facebook.com/profile.php?id=100080934841785"><font color="#b8adad">SaikiDesu</font></a></body>';
 };
+# Made by SaikiDesu (Mr.Aik3ro)
+# YT: https://youtube.com/c/MrAik3ro
+# FB: https://www.facebook.com/saikidesu.11
+# Github: https://github.com/mraikero-01
+# Random VTuber Image API using php, I hope this can help you!❤️
+
